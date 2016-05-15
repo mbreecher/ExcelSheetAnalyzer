@@ -1,0 +1,9 @@
+C:\cs\vs2015\projects\ModelGenerator\ModelGenerator\bin\Debug\ModelGenerator.exe.config
+C:\cs\vs2015\projects\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.csprojResolveAssemblyReference.cache
+C:\cs\vs2015\projects\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.Form1.resources
+C:\cs\vs2015\projects\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.Properties.Resources.resources
+C:\cs\vs2015\projects\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.csproj.GenerateResource.Cache
+C:\cs\vs2015\projects\ModelGenerator\ModelGenerator\bin\Debug\ModelGenerator.exe
+C:\cs\vs2015\projects\ModelGenerator\ModelGenerator\bin\Debug\ModelGenerator.pdb
+C:\cs\vs2015\projects\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.exe
+C:\cs\vs2015\projects\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.pdb
